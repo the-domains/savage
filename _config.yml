@@ -2,6 +2,7 @@ name: Savage
 favicon: null
 layout_spectrum: 0.41449044016189873
 typography_spectrum: 0.43290896457619965
+title: SAVAGE
 cta:
   domain: null
   bucket: null
